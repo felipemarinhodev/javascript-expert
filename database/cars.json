@@ -1,0 +1,23 @@
+[
+	{
+		"id": "5757d44b-0ebd-4136-9b91-52aec064fa8c",
+		"name": "Prius",
+		"releaseYear": 2020,
+		"available": true,
+		"gasAvailable": true
+	},
+	{
+		"id": "3d6ebdca-bbe4-4ad1-926d-81e08ab2abdb",
+		"name": "CTS",
+		"releaseYear": 2020,
+		"available": true,
+		"gasAvailable": true
+	},
+	{
+		"id": "58814fae-c62b-484b-b53e-8a77086f7b65",
+		"name": "Accord",
+		"releaseYear": 2019,
+		"available": true,
+		"gasAvailable": true
+	}
+]

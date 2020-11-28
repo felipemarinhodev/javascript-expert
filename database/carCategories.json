@@ -1,0 +1,12 @@
+[
+	{
+		"id": "03bc9eb5-5c59-4491-a963-83f7394fbaf9",
+		"name": "Extended Cab Pickup",
+		"carIds": [
+			"5757d44b-0ebd-4136-9b91-52aec064fa8c",
+			"3d6ebdca-bbe4-4ad1-926d-81e08ab2abdb",
+			"58814fae-c62b-484b-b53e-8a77086f7b65"
+		],
+		"price": 93.91
+	}
+]
