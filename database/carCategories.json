@@ -1,12 +1,12 @@
 [
 	{
-		"id": "03bc9eb5-5c59-4491-a963-83f7394fbaf9",
-		"name": "Extended Cab Pickup",
+		"id": "43187087-dd28-49ae-903f-0576eede2d88",
+		"name": "Minivan",
 		"carIds": [
-			"5757d44b-0ebd-4136-9b91-52aec064fa8c",
-			"3d6ebdca-bbe4-4ad1-926d-81e08ab2abdb",
-			"58814fae-c62b-484b-b53e-8a77086f7b65"
+			"550918f2-86be-410c-a4a2-2a4789e03ae7",
+			"8655f224-e749-4d8b-8de5-c03ada28564e",
+			"9fb6d02b-037e-48a4-9900-2d2a1ae9d570"
 		],
-		"price": 93.91
+		"price": 94.43
 	}
 ]
